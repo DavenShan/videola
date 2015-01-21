@@ -1,5 +1,6 @@
 Videola
 =======
+Note: This code is no longer supported.
 ![videola](http://videola.tv/images/videola-logo.png)
 
 Built on [Drupal](http://drupal.org), Videola is a highly flexible, easily expandable, feature-rich open source solution for organizing and managing video content, users, and ecommerce. Create your own Netflix On-Demand style (subscription), Hulu style (ad supported), or Blockbuster / Amazon style (rental) streaming video websites with your own video content. Want to see Videola in action? Check-out [Drupalize.me](http://drupalize.me) to get an idea for what you can do with Videola!
